@@ -14,9 +14,9 @@
 ## Installation
    N/A
 ## Usage
-   ![Screenshot](./img/screen.png)
-   - URL of GitHub Repo: https://github.com/Kayexie/employee-tracker
-   - URL of Application: https://drive.google.com/file/d/1gLV_k3pzfWgOl_ryt2Rs9KYarFwKJ1FB/view?usp=sharing
+   ![Screenshot](./img/screenshot.png)
+   - URL of GitHub Repo: https://github.com/Kayexie/fantastic-umbrella
+   - URL of Application: https://drive.google.com/file/d/1Nbf2CRbieuoWsSyHLD2G9jBwJzKpd0Q9/view?usp=sharing
 ## License
    N/A
 ## Contributingß
